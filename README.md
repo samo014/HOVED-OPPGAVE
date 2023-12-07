@@ -29,3 +29,8 @@ This portfolio site is built using HTML, CSS, and JavaScript to ensure a seamles
 HTML: The structure and content of the site.
 CSS: Styling and layout to enhance visual appeal.
 JavaScript: Dynamic elements and interactivit
+
+Netlify: https://helpful-lollipop-77586e.netlify.app/contact
+
+Git LINK: https://github.com/samo014/HOVED-OPPGAVE/tree/main
+
